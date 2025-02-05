@@ -1,4 +1,4 @@
-Title: An AI Player for a Quantum Game
+Title: Test for Chris
 Date: 2025-02-05 13:00
 Category: Story
 Tags: quantum ai
